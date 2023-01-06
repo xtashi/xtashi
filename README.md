@@ -21,10 +21,9 @@
 <p>(im fucking dumb)</p>  
   
 <img align="center" alt="tf" src="http://mortalkombatwarehouse.com/mk3/kunglao/sprites/dizzy/a1.gif">
-<a href="https://github.com/xtashi" target="_blank">
   
 <h2>SOCIAL</h2>
-<img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a><br>
+<a href="https://github.com/xtashi" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a><br>
 
 <h2>ego snake 🐍</h2><br>
 
