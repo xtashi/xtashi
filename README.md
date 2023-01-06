@@ -28,4 +28,4 @@
 
 <h2>ego snake 🐍</h2><br>
 
-![snake gif](https://github.com/xtashi/xtashi/blob/output/github-contribution-grid-snake.gif)	
+![snake svg](https://github.com/xtashi/xtashi/blob/output/github-contribution-grid-snake.svg)	
