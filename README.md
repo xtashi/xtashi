@@ -25,6 +25,4 @@
 <h2>SOCIAL</h2>
 <a href="https://github.com/xtashi" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a><br>
 
-<h2>ego snake 🐍</h2><br>
 
-![snake svg](https://github.com/xtashi/xtashi/blob/output/github-contribution-grid-snake.svg)	
