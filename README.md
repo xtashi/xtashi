@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <strong>just trying to get into this world
 <br>
 <br>
@@ -8,22 +9,42 @@
 	
 </div>
 
-  <h2>LANGUAGES</h2>
+  <h2>LANGUAGES & FRAMEWORKS</h2>
 
 <div style="display: inline_block">
-   <img align="center" alt="JS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="GML" height="26" width="29" src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/og/thumbnail_gm_logo.png?1671538779">
-    <img align="center" alt="HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="top" width="48px" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
+  <img align="top" width="48px" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
+  <img align="top" width="48px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
+  <img align="top" width="48px" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
 </div>
-	<h3>MOST USED OF THEM</h3>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtashi&show_icons=true&count_private=true&theme=gruvbox&hide=issues&layout=compact&hide_border=true" width="30%"><br>
+
+<br>	
+<h2>Things that i've learning</h2>
+<div style="display: inline_block">
+  <img align="top" width="48px" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
+  <img align="top" width="48px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg">
+  <img align="top" width="48px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/discordjs/discordjs-plain.svg">
+</div>
+<br>
+
+<h2>Work Tools</h2>
+<img width="48px src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg">
+<img width="48px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg">
+<img width="48px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg">
+<img width="48px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg">
 
 <br>
-<p>(im fucking dumb)</p>  
+
+
+<br>
+<br>
+
   
 <img align="center" alt="tf" src="http://mortalkombatwarehouse.com/mk3/kunglao/sprites/dizzy/a1.gif">
+
+<h3>Most used of them :P</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtashi&show_icons=true&count_private=true&theme=gruvbox&hide=issues&layout=compact&hide_border=true" width="30%">
+	
   
 <h2>SOCIAL</h2>
 <a href="https://github.com/xtashi" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a><br>
