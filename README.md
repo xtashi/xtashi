@@ -4,7 +4,7 @@
 <h2>STATS</h2>
 <div>
 	<img src="https://github-readme-stats.vercel.app/api?username=xtashi&show_icons=true&count_private=true&theme=gruvbox&hide=issues&layout=compact&hide_border=true"
-	width="70%" />
+	width="40%" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtashi&show_icons=true&count_private=true&theme=gruvbox&hide=issues&layout=compact&hide_border=true" width="40%">
 </div>
 
