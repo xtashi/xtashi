@@ -9,29 +9,29 @@
 	
 </div>
 
-  <h2>LANGUAGES & FRAMEWORKS</h2>
+  <h2>Languages and frameworks</h2>
 
 <div style="display: inline_block">
-  <img align="top" width="48px" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
-  <img align="top" width="48px" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
-  <img align="top" width="48px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
-  <img align="top" width="48px" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
+  <img align="top" width="48px" hspace="10" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
+  <img align="top" width="48px" hspace="10" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
+  <img align="top" width="48px" hspace="10" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
+  <img align="top" width="48px" hspace="10" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
 </div>
 
 <br>	
 <h2>Things that i've learning</h2>
 <div style="display: inline_block">
-  <img align="top" width="48px" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
-  <img align="top" width="48px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg">
-  <img align="top" width="48px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/discordjs/discordjs-plain.svg">
+  <img align="top" width="48px" hspace="10" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
+  <img align="top" width="48px" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg">
+  <img align="top" width="48px" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/discordjs/discordjs-plain.svg">
 </div>
 <br>
 
 <h2>Work Tools</h2>
-<img width="48px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg">
-<img width="48px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg">
-<img width="48px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg">
-<img width="48px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg">
+<img width="48px" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg">
+<img width="48px" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg">
+<img width="48px" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg">
+<img width="48px" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg">
 
 <br>
 
