@@ -38,7 +38,13 @@
 
 <br>
 <br>
-
+	
+<h2>Currently doing</h2>
+<h3>Zanop message</h3>
+<img src="./img/zanop">
+<p>
+Zanop message is basically a messaging web application for mobile and desktop, currently being developed only by myself, but soon it will be an open-source application
+</p>
   
 <img align="center" alt="tf" src="http://mortalkombatwarehouse.com/mk3/kunglao/sprites/dizzy/a1.gif">
 
