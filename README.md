@@ -41,7 +41,7 @@
 	
 <h2>Currently doing</h2>
 <h3>Zanop message</h3>
-<img src="./img/zanop">
+<img src="img/zanop.png">
 <p>
 Zanop message is basically a messaging web application for mobile and desktop, currently being developed only by myself, but soon it will be an open-source application
 </p>
