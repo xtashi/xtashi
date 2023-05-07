@@ -22,7 +22,7 @@
 <h2>Things that i've learning</h2>
 <div style="display: inline_block">
   <img align="top" width="48px" hspace="10" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
-  <img align="top" width="48px" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg">
+  <img align="top" width="48px" hspace="10" src="https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=avif&w=256">
   <img align="top" width="48px" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/discordjs/discordjs-plain.svg">
 </div>
 <br>
@@ -48,9 +48,6 @@ Zanop message is basically a messaging web application for mobile and desktop, c
   
 <img align="center" alt="tf" src="http://mortalkombatwarehouse.com/mk3/kunglao/sprites/dizzy/a1.gif">
 
-<h3>Most used of them :P</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtashi&show_icons=true&count_private=true&theme=gruvbox&hide=issues&layout=compact&hide_border=true" width="30%">
-	
   
 <h2>SOCIAL</h2>
 <a href="https://github.com/xtashi" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a><br>
