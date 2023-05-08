@@ -1,39 +1,28 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<strong>just trying to get into this world
-<br>
-<br>
-<h2>STATS</h2>
-<div>
-	<img src="https://github-readme-stats.vercel.app/api?username=xtashi&show_icons=true&count_private=true&theme=gruvbox&hide=issues&layout=compact&hide_border=true"
-	width="40%" />
-	
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Just+trying+to+get+into+this+world)](https://git.io/typing-svg)
+
+
+  <h1 align="center"> STATS </h1>
+<div align="center">
+
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xtashi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xtashi&layout=compact&langs_count=8&theme=radical"/>
+
 </div>
 
-  <h2>Languages and frameworks</h2>
+  <h1 align="center"> SKILLS </h1>
 
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
   <img align="top" width="48px" hspace="10" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
   <img align="top" width="48px" hspace="10" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   <img align="top" width="48px" hspace="10" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
   <img align="top" width="48px" hspace="10" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
-</div>
-
-<br>	
-<h2>Things that i've learning</h2>
-<div style="display: inline_block">
   <img align="top" width="48px" hspace="10" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
   <img align="top" width="48px" hspace="10" src="https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=avif&w=256">
   <img align="top" width="48px" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/discordjs/discordjs-plain.svg">
 </div>
-<br>
-
-<h2>Work Tools</h2>
-<img width="48px" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg">
-<img width="48px" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg">
-<img width="48px" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg">
-<img width="48px" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg">
-
-<br>
 
 
 <br>
